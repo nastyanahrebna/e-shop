@@ -1218,13 +1218,6 @@
       <workItem from="1473674851715" duration="12000" />
       <workItem from="1473708978638" duration="69000" />
     </task>
-    <task id="LOCAL-00018" summary=".">
-      <created>1472233125183</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1472233125183</updated>
-    </task>
     <task id="LOCAL-00019" summary=".">
       <created>1472233425308</created>
       <option name="number" value="00019" />
@@ -1536,7 +1529,7 @@
       <workItem from="1473846352335" duration="4259000" />
       <workItem from="1473852333266" duration="71000" />
       <workItem from="1473854831654" duration="1870000" />
-      <workItem from="1473857037452" duration="365000" />
+      <workItem from="1473857037452" duration="431000" />
     </task>
     <task id="LOCAL-00064" summary=".">
       <created>1473709069279</created>
@@ -1566,7 +1559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1473857179080</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary=".">
+      <created>1473857421418</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1473857421418</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers>
       <GitHub shared="false" url="https://github.com">
         <option name="assignedIssuesOnly" value="false" />
@@ -1587,7 +1587,7 @@
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="558204000" />
+    <option name="totallyTimeSpent" value="558270000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1691,9 +1691,9 @@
     <MESSAGE value="search" />
     <MESSAGE value="add Procfile" />
     <MESSAGE value="update frontend" />
-    <MESSAGE value="." />
     <MESSAGE value="error pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="error pages" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.87628865" />
   </component>
   <component name="XDebuggerManager">
